@@ -1,2 +1,3 @@
 # Coursera_Capstone
-This is repo is capstone project test
+This is repository for capstone project.
+Hello Capstone Project Course!
